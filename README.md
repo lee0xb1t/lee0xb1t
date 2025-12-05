@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+
 <!--
 **lee0xb1t/lee0xb1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
