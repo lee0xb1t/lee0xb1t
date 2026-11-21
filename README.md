@@ -3,8 +3,9 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lee0xb1t)](https://github.com/lee0xb1t)
 
 ---
-
+<!--
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Love%20Coding&width=800&height=400)](https://github.com/lee0xb1t)
+-->
 
 <!--
 **lee0xb1t/lee0xb1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
